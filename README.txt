@@ -1,4 +1,4 @@
-The Aim of this project is to validate Bank account numbers (for any SWIFT countries), calculate BIC/SWIFT (for spanish banks) , and extract information as Bank name, Country Code, account number, control digits, Bank code and Office number.
+The Aim of this project is to validate Bank account numbers (for any SWIFT country), calculate BIC/SWIFT (for spanish banks) , and extract information as Bank name, Country Code, account number, control digits, Bank code and Office number.
 
 This could be a useful tool for ERPs master data migrations.
 
